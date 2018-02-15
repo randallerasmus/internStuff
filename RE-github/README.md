@@ -10,7 +10,8 @@ with intellij.
 
 NB : Please make sure that the following setup is done before.
 * Go to www.github.com and register an account 
- ####(Very important here that you remember your username and password to need it again during the cloning of your repo session)
+ (Very important here that you remember your username and password to need 
+ it again during the cloning of your repo session)
  
 * After your account is successfully created go to step 1
 ##Step 1
